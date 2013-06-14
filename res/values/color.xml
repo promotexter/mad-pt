@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<drawable name="color_info">#50a0ec</drawable>
+	<drawable name="color_warning">#ecd350</drawable>
+	<drawable name="color_critical">#ec5050</drawable>    
+</resources>
